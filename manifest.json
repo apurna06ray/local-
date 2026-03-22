@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Quick Notes Extension",
+  "version": "1.0",
+  "description": "Save quick notes from your browser",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["storage"]
+}
